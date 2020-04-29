@@ -1,9 +1,9 @@
 [submodule "front"]
 	path = front
-	url = git@github.com:Vicarium/rootlet-front.git
+	url = https://github.com/Vicarium/rootlet-front.git
 [submodule "back"]
 	path = back
-	url = git@github.com:Vicarium/rootlet-back.git
+	url = https://github.com/Vicarium/rootlet-back.git
 [submodule "events"]
 	path = events
-	url = git@github.com:Vicarium/rootlet-events.git
+	url = https://github.com/Vicarium/rootlet-events.git
